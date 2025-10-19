@@ -8,7 +8,7 @@ ipdb
 causal-conv1d
 easydict
 h5py
-open3d==0.9  # 固定PointGPT版本
+open3d==0.18.0  # 固定PointGPT版本
 opencv-python
 tensorboardX
 transforms3d
